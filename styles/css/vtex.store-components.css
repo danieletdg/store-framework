@@ -6,17 +6,17 @@
 
 .infoCardContainer--vintage {
     background-color: #EDCFD1;
-  }
+}
 
-  .infoCardContainer--vintage:hover {
-      background-color: white;
-  }
+.infoCardContainer--vintage:hover {
+    background-color: white;
+}
 
-  .infoCardHeadline--vintage {
-      color: black;
-      font-weight: bold;
-  }
+.infoCardHeadline {
+    color: black;
+    font-weight: bold;
+}
 
-  .infoCardContainer--metal {
-      background-color: #e1e1e1;
-  }
+.infoCardContainer--metal {
+    background-color: #e1e1e1;
+}
