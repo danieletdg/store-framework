@@ -1,9 +1,7 @@
 {
   "store.home": { 
     "blocks": [
-      "rich-text",
-      "info-card#button-right",
-      "info-card#button-left"
+      "rich-text"
     ]
   },
   "rich-text": {
@@ -33,7 +31,7 @@
       "headline": "Shining chrome",
       "subhead": "Give your kitchen a cool style adding warm metallic finishes.<br>Available until January 2020.",
       "callToActionMode": "button",
-      "callToActionText": "Go to Collection",
+      "callToActionText": "Explore",
       "callToActionUrl": "/sale/d",
       "textAlignment": "center"
     }
