@@ -18,6 +18,9 @@
 
 .infoCardHeadline {
     color: black;
-    font-weight: bolder;
+}
+
+.infoCardTextContainer {
+    font-weight: bold;
 }
 
